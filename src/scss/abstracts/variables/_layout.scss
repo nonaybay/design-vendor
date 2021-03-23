@@ -1,0 +1,5 @@
+$breakpoint-min-sm: 0;
+$breakpoint-max-sm: 428px;
+$breakpoint-min-md: ($breakpoint-max-sm + 1);
+$breakpoint-max-md: 1024px;
+$breakpoint-min-lg: ($breakpoint-max-md + 1);
